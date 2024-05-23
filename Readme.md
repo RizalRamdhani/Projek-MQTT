@@ -1,16 +1,15 @@
-# Praktik IOT KE MQTT 
+![DHT22_Digital_Temperature_and_Humidity_Sensor_Module_1-1](https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/96ef0da6-7f68-4f0f-afac-41889dd5b8e5)# Praktik IOT KE MQTT 
 sensor DHT22 digunakan untuk mengukur suhu dan kelembaban udara. Kemudian, nilai-nilai yang terukur tersebut diambil oleh mikrokontroler, seperti esp32 dan dikirim melalui koneksi Internet ke broker MQTT, dalam hal ini HiveMQ Ke MQTT Box.
-#Gambar Sensor dht22
-![DHT22_Digital_Temperature_and_Humidity_Sensor_Module_1-1](https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/1527b574-9aa2-4891-a09c-c0335157287a)
-or DHT22
+# Gambar Sensor dht22
+![DHT22_Digital_Temperature_and_Humidity_Sensor_Module_1-1](https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/9993b95c-4d59-4075-bf03-c2eb95582986)
 
 # Alat dan bahan 
-# 1.Sensor DHT22
-# 2.esp32 sebagai mikrokontroler
-# 3.Breadboard 
-# 4.Kabel jumper 
-# 5.Broker mqtt misalnya hivemqtt
-# 6.MQTT BOX sebagai cloud sementara
+1.Sensor DHT22
+2.esp32 sebagai mikrokontroler
+3.Breadboard 
+4.Kabel jumper 
+5.Broker mqtt misalnya hivemqtt
+6.MQTT BOX sebagai cloud sementara
 # Rangkaian DHT22 KE MQTT BOX
 <img width="689" alt="Screenshot 2024-05-24 015916" src="https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/ac658f4a-03f3-4fb0-b234-ec19a0ebb48e">
 
