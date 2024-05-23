@@ -10,6 +10,11 @@ sensor DHT22 digunakan untuk mengukur suhu dan kelembaban udara. Kemudian, nilai
 4.Kabel jumper 
 5.Broker mqtt misalnya hivemqtt
 6.MQTT BOX sebagai cloud sementara
+## Components
+- DHT22 Sensor
+- ESP32
+- Breadboard
+- Jumper Wires
 # Rangkaian DHT22 KE MQTT BOX
 <img width="689" alt="Screenshot 2024-05-24 015916" src="https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/ac658f4a-03f3-4fb0-b234-ec19a0ebb48e">
 
