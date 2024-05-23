@@ -3,18 +3,14 @@ sensor DHT22 digunakan untuk mengukur suhu dan kelembaban udara. Kemudian, nilai
 # Gambar Sensor dht22
 ![DHT22_Digital_Temperature_and_Humidity_Sensor_Module_1-1](https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/9993b95c-4d59-4075-bf03-c2eb95582986)
 
-# Alat dan bahan 
+## Alat dan bahan 
 1.Sensor DHT22
 2.esp32 sebagai mikrokontroler
 3.Breadboard 
 4.Kabel jumper 
 5.Broker mqtt misalnya hivemqtt
 6.MQTT BOX sebagai cloud sementara
-## Components
-- DHT22 Sensor
-- ESP32
-- Breadboard
-- Jumper Wires
+
 # Rangkaian DHT22 KE MQTT BOX
 <img width="689" alt="Screenshot 2024-05-24 015916" src="https://github.com/RizalRamdhani/Projek-MQTT/assets/106525434/ac658f4a-03f3-4fb0-b234-ec19a0ebb48e">
 
